@@ -4,7 +4,7 @@ import torch
 import torch.nn as nn
 import numpy as np
 import math
-from Model import  CNN_base, CNN_stat, AttackNN, CNN_base1,AttackNN_blackbox, WhiteAttack, VGG_GrayScale, ResNet_GrayScale
+from Model import  CNN_base, CNN_stat, AttackNN,AttackNN_blackbox, WhiteAttack, VGG_GrayScale, ResNet_GrayScale
 import argparse
 import json
 import random 
